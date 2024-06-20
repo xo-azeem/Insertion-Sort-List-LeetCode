@@ -2,17 +2,17 @@
 
 LeetCode Q # 147.
 
-Given the head of a singly linked list, sort the list using insertion sort, and return the sorted list's head.
+Given the head of a singly linked list, sort the list using insertion sort, and return the sorted list's head.</br></br>
 The steps of the insertion sort algorithm:
 
 Insertion sort iterates, consuming one input element each repetition and growing a sorted output list.
 At each iteration, insertion sort removes one element from the input data, finds the location it belongs within the sorted list and inserts it there.
-It repeats until no input elements remain.
-The following is a graphical example of the insertion sort algorithm. The partially sorted list (black) initially contains only the first element in the list. One element (red) is removed from the input data and inserted in-place into the sorted list with each iteration.
+It repeats until no input elements remain.</br></br>
+To know about Insertion Sort more, click on the link below: -
 
 <div align = "center">
 
-  ![image](https://github.com/xo-azeem/Insertion-Sort-List-LeetCode/assets/171427226/ac1c7d3e-a49a-41ac-a6a5-0f8c2ca71fcd)
+  <a href="https://www.geeksforgeeks.org/insertion-sort/">Insertion Sort.</a>
 
 </div>
 
